@@ -103,7 +103,7 @@
   <br>
 
   
-  Thanks to all [contributors](./docs/CONTRIBUTORS_LIST.md) !
+  Thanks to all [contributors](./docs/CONTRIBUTORS.md) !
   
   <br>
 
